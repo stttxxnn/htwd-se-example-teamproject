@@ -10,6 +10,7 @@ Stan Schwerdtfeger <s88962@htw-dresden.de>
 1.0, 30.03.2026
 
 include::Teammitglieder.adoc[]
+include::Software.adoc[]
 
 
 == Einführung
