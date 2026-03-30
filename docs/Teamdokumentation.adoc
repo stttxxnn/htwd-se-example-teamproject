@@ -9,6 +9,9 @@ Nico Heerwagen nico.heerwagen@stud.htw-dresden.de
 Stan Schwerdtfeger <s88962@htw-dresden.de>
 1.0, 30.03.2026
 
+Maximilian Voigt <s88422@htw-dresden.de>
+1.0, 30.03.2026
+
 include::Teammitglieder.adoc[]
 include::Software.adoc[]
 
